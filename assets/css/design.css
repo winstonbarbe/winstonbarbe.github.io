@@ -1,0 +1,35 @@
+#main {
+  background-image: linear-gradient(to bottom right, #0085cd, #2b2b2b);
+}
+
+header {
+  background-image: url("images/inferno.jpeg");
+  z-index: 2;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #2b2b2b;
+}
+
+a {
+  text-decoration: none;
+}
+
+#header .image.avatar {
+  width: 15em;
+}
+
+#footer {
+  background-color: #2b2b2b;
+  background-image: url("https://64.media.tumblr.com/3ba93860ca3a493b5d762b12e9b6cd91/tumblr_p5o847q06P1v4u49oo1_400.gifv");
+  background-size: cover;
+}
+
+strong {
+  color: #f2f2f2;
+}
